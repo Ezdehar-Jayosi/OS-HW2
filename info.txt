@@ -1,0 +1,5 @@
+sched.h from - /home/student/linux-4.15.18-custom/include/linux
+init_task from - /home/student/linux-4.15.18-custom/include/linux
+syscall_64.tbl from - /home/student/linux-4.15.18-custom/arch/x86/entry/syscalls
+
+syscalls.h from - include/linux/syscalls.h
